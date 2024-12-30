@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/8368de01-da4b-4f2f-9a0d-ab13f36d33a4)
+
 # XSS.IS Service Worker Debugger
 Made By Taylor Christian Newsome
 
